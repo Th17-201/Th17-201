@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Spark-cell/Spark-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Th17-201/Th17-201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
